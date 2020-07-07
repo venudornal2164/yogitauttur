@@ -1,0 +1,49 @@
+.text1{
+    background-color: darkslategray;
+    padding: 15px;
+    color: chartreuse;
+}
+.text p{
+    color:chartreuse;
+}
+.text2 {
+    background-color: deeppink;
+    padding: 15px;
+    color: chartreuse;
+}
+.text2 h2{
+    text-align: center;
+}
+.text3 {
+    background-color: royalblue;
+    padding: 15px;
+    color: chartreuse;
+}
+.text3 h2{
+    text-align: center;
+}
+.container1{
+    text-align:center;
+    color: black;
+}
+.container1 h2{
+    text-align:center;
+    color: deeppink;
+}
+.text{
+    text-align:center;
+    padding: 5px;
+    background-color: darkslategray;
+    color: white;
+}
+@media(max-width: 768px) {
+    . {
+        flex-direction: column;
+    }
+    .main-nav p{
+        margin-top: 10px;
+
+    }
+
+
+}
